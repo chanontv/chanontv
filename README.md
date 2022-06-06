@@ -10,7 +10,7 @@
 [![Linkedin](https://img.shields.io/badge/chanont-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chanont//)
 [![github](https://img.shields.io/badge/chanont-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chanontv/)
 <a href="mailto:chanont.vc@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-![](https://komarev.com/ghpvc/?username=chanontv&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+
 
 ## My Projects  📁
 
