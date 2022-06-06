@@ -25,7 +25,7 @@
    - Create CRUD System.
    - Create PostgreSQL database ,then deploy to Heroku. 
 
-## Tech Stack 💻
+## Languages and Tools 💻
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,git,docker,mysql,mongodb)](https://skillicons.dev)
 <hr>
