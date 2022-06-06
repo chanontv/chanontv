@@ -34,5 +34,5 @@
     
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=chanontv&show_icons=true&theme=vue)
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanontv&layout=compact&langs_count=8&theme=default&hide=Jupyter%20Notebook")](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanontv&layout=compact&langs_count=8&theme=default&hide=Jupyter%20Notebook)
    
