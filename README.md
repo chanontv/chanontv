@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Chanont
 
 ## About me 📝
-- 📰 I’m currently looking for a programmer job.
+- 📰 I’m looking for a programmer job.
 
 - 📗 I’m currently learning NodeJS.
 
