@@ -31,8 +31,9 @@
 [![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,git,docker,mysql,mongodb)](https://skillicons.dev)
 <hr>
 
-## 📊 Github stats
+## Github stats 📊
     
-   <a> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=chanontv&show_icons=true&theme=vue)</a>
-   <a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanontv&layout=compact&langs_count=8&theme=default&hide=Jupyter%20Notebook")](https://github.com/anuraghazra/github-readme-stats)</a>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=chanontv&show_icons=true&theme=vue)
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanontv&layout=compact&langs_count=8&theme=default&hide=Jupyter%20Notebook")](https://github.com/anuraghazra/github-readme-stats)
    
