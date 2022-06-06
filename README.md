@@ -13,7 +13,7 @@
 
 ## My Projects  📁
 
-- [**Data Pipeline on Google Cloud Platform**](https://github.com/chanontv/data-dipeline-on-gcp): Build a pipeline on GCP.
+- [**Data Pipeline on Google Cloud Platform**](https://github.com/chanontv/data-dipeline-on-gcp): Build a data pipeline on GCP.
    - Extract and Cleaning with Pandas dataframe.
    - Connect to external database by Airflow Api.
    - Use Cloud Composer (Apache Airflow) to establish a data pipeline and automate.
