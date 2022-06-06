@@ -1,15 +1,16 @@
 # Hi there 👋, I'm Chanont
 
-## About me 📝
 - 📰 I’m looking for a programmer job.
 
 - 📗 I’m currently learning NodeJS.
 
 - 📙 I interested about big data management. 
 
-- 📧 How to reach me:
-
+## Contact with me
+[![Linkedin](https://img.shields.io/badge/chanont-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chanont//)
+[![github](https://img.shields.io/badge/chanont-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chanontv/)
 <a href="mailto:chanont.vc@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+![](https://komarev.com/ghpvc/?username=chanontv&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
 ## My Projects  📁
 
@@ -29,4 +30,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,git,docker,mysql,mongodb)](https://skillicons.dev)
 <hr>
- <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanontv&theme=react&layout=compact" />
+
+## 📊 Github stats
+    
+   <a> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=chanontv&show_icons=true&theme=vue)</a>
+   <a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanontv&layout=compact&langs_count=8&theme=default&hide=Jupyter%20Notebook")](https://github.com/anuraghazra/github-readme-stats)</a>
+   
