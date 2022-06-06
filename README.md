@@ -29,7 +29,6 @@
 ## Languages and Tools 💻
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,git,docker,mysql,mongodb)](https://skillicons.dev)
-<hr>
 
 ## Github stats 📊
     
