@@ -2,8 +2,6 @@
 
 - 📰 I’m looking for a programmer job.
 
-- 📗 I’m currently learning NodeJS.
-
 - 📙 I interested about big data management. 
 
 ## Contact with me
@@ -31,7 +29,7 @@
 
 ## Github stats 📊
     
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=chanontv&show_icons=true&theme=vue)
+   ![Chanont's GitHub stats](https://github-readme-stats.vercel.app/api/?username=chanontv&show_icons=true&theme=vue)
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanontv&layout=compact&langs_count=8&theme=default&hide=Jupyter%20Notebook)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanontv&layout=compact&langs_count=8&theme=default&hide=Jupyter%20Notebook,SCSS)
    
