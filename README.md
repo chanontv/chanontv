@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Chanont
 
-- 📰 I’m looking for a programmer job.
-
 - 📙 I interested about big data management. 
 
 ## Contact with me
