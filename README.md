@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Chanont
 
-- 📙 I interested about big data management. 
+- 📙 I interesting about big data management. 
 
 ## Contact with me
 [![Linkedin](https://img.shields.io/badge/chanont-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chanont//)
@@ -16,14 +16,18 @@
    - Load data to Serverless Data Warehouse on BigQuery.
    - Use Google Connectors conent BigQuery, then build data visualization with Google Data Studio
    
-- [**Blogging Website**](https://github.com/chanontv/django-blogging): Build Blogging Website with Django Framework.
-   - Create Login and Register System and Form Validation.
-   - Create CRUD System.
-   - Create PostgreSQL database ,then deploy to Heroku. 
+- [**End to End on Hadoop**](https://github.com/chanontv/end-to-end-hadoop-basic)
+   - Create VM instance on Google Compute Engine.
+   - Install docker & Cloudera Hadoop on VM.
+   - Simulate data sources from csv file and shell script.
+   - Ingest realtime data by Apache Flume.
+   - Clean data by Apache Spark.
+   - Create tables from data source by Apeche Hive
+   - Create workflow by Apache Oozie on Cloudera HUE
 
 ## Languages and Tools 💻
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,git,docker,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,linux,vscode,git,docker,mysql)](https://skillicons.dev)
 
 ## Github stats 📊
     
